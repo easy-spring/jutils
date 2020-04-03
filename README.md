@@ -1,0 +1,2 @@
+# jutils
+simple java utils
